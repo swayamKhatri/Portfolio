@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Wander Wisdom",
+    "imageSrc": "projects/wander.jpg",
+    "description": "An web application for Frequent travelers to get the best places to visit",
+    "skills": ["Java", "Html", "CSS", "Javascript"]
+  },
+  {
+    "title": "Java Job Portal",
+    "imageSrc": "projects/job.png",
+    "description": "Jovb portal for students and comapnies finding a job or an employee respectively",
+    "skills": ["Java","MySQL"]
+  },
+  {
+    "title": "Multi-Tool Web app for developers",
+    "imageSrc": "projects/images.jpeg",
+    "description": "A website with comprehensive toolkit tailored for developers.",
+    "skills": ["HTML", "CSS", "JS"]
+  }
+]
